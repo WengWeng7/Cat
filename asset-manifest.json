@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WengWeng7/Cat.git/static/css/main.3b71cc2a.css",
+    "main.js": "/WengWeng7/Cat.git/static/js/main.62b813b3.js",
+    "static/js/453.8e8d8c81.chunk.js": "/WengWeng7/Cat.git/static/js/453.8e8d8c81.chunk.js",
+    "index.html": "/WengWeng7/Cat.git/index.html",
+    "main.3b71cc2a.css.map": "/WengWeng7/Cat.git/static/css/main.3b71cc2a.css.map",
+    "main.62b813b3.js.map": "/WengWeng7/Cat.git/static/js/main.62b813b3.js.map",
+    "453.8e8d8c81.chunk.js.map": "/WengWeng7/Cat.git/static/js/453.8e8d8c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.62b813b3.js"
+  ]
+}
